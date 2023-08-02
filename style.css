@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Nabla', cursive;
+    background-color: #000000;
+    text-align: center;
+background-image: url("https://i.pinimg.com/originals/c4/05/e5/c405e59f2114f36defe07f92a771d9a5.gif");
+}
+
+img {
+    width: 300px;
+
+}
